@@ -1,7 +1,5 @@
 [📦](https://petingo.ch/)
-
 [📑](https://cv.petingo.ch/)
-
 [📷](https://vsco.co/petingo/gallery)
 
 <!---
