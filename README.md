@@ -1,4 +1,8 @@
-[📦](https://petingo.ch/) [📑](https://cv.petingo.ch/). [📷](https://vsco.co/petingo/gallery)
+[📦](https://petingo.ch/)
+
+[📑](https://cv.petingo.ch/)
+
+[📷](https://vsco.co/petingo/gallery)
 
 <!---
 Petingo/Petingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
