@@ -1,5 +1,7 @@
 [```📦 Projects```](https://petingo.ch/)
+
 [```📷 Photos```](https://vsco.co/petingo/gallery)
+
 [```📑 CV```](https://cv.petingo.ch/)
 
 
